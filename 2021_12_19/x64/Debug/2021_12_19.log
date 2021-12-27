@@ -1,0 +1,4 @@
+﻿  源.c
+D:\资料\学习\Git\Cabinet\2021_12_19\源.c(22,21): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\资料\学习\Git\Cabinet\2021_12_19\源.c(46,15): warning C4013: “strcmp”未定义；假设外部返回 int
+  2021_12_19.vcxproj -> D:\资料\学习\Git\Cabinet\2021_12_19\x64\Debug\2021_12_19.exe

@@ -1,0 +1,5 @@
+﻿  源.c
+D:\资料\学习\Git\Cabinet\test_2021_12_20\源.c(15,34): warning C4311: “类型强制转换”: 从“Test *”到“unsigned long”的指针截断
+D:\资料\学习\Git\Cabinet\test_2021_12_20\源.c(15,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\资料\学习\Git\Cabinet\test_2021_12_20\源.c(15,9): warning C4313: “printf”: 格式字符串中的“%p”与“unsigned long”类型的参数 1 冲突
+  test_2021_12_20.vcxproj -> D:\资料\学习\Git\Cabinet\test_2021_12_20\x64\Debug\test_2021_12_20.exe
